@@ -1,1 +1,1 @@
-read my business projext
+read my business project
